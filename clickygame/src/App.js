@@ -1,16 +1,16 @@
 import React from 'react';
 import './App.css';
-import Navbar from './components/navbar';
-import Images from './components/images';
-import Jumbotron from './components/jumbotron';
-import Footer from './components/footer';
+
+import Footer from './components/Footer';
+import Game from './components/Game';
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <Jumbotron />
-      <Images />
+      {/* <Navbar /> */}
+      {/* <Jumbotron /> */}
+      {/* <Images /> */}
+      <Game />
       <Footer />
     </div>
   )

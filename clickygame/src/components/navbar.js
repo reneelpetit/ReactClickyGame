@@ -1,12 +1,13 @@
 import React from "react";
 
-function Navbar() {
+function Navbar(props) {
     return (
 
         <div>
             <div class="navbar">
                 <nav class="navbar navbar-light bg-light">
-                    <a class="navbar-brand" href="#">This is the NavBar</a>
+                    <h1>Score: {props.score}</h1>
+                    <h1>Top Score: {props.topScore}</h1>
                 </nav>
             </div>
         </div>
