@@ -3,12 +3,12 @@ import './App.css';
 
 import Footer from './components/Footer';
 import Game from './components/Game';
+import Jumbotron from './components/Jumbotron';
 
 function App() {
   return (
     <div>
-      {/* <Navbar /> */}
-      {/* <Jumbotron /> */}
+      <Jumbotron />
       {/* <Images /> */}
       <Game />
       <Footer />

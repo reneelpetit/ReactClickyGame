@@ -2,16 +2,54 @@
     {
         "id": 1,
         "src": "/assets/durga.jpg",
-        "click": false
+        "click": false,
+        "info": "Goddess with six arms who sits upon a tiger or lion. Durga means 'fearless warrior.'"
     },
     {
         "id": 2,
         "src": "/assets/ganesha.jpg",
-        "click": false
+        "click": false,
+        "info": "The elephant head God; the eldest son of Shiva & Parvati. He brings good luck and clears obstacles."
     },
     {
         "id": 3,
         "src": "/assets/kali.jpg",
-        "click": false
+        "click": false,
+        "info": "'The Black One', Kali takes form as Durga at her most terrifying. She has 4 arms and a demon head in one hand."
+    },
+    {
+        "id": 4,
+        "src": "/assets/saraswati.jpg",
+        "click": false,
+        "info": "Goddess of knowledge and arts. She enjoys playing her instrument, the veena"
+    },
+    {
+        "id": 5,
+        "src": "/assets/radhaKrishna.jpg",
+        "click": false,
+        "info": "Krishna is the 8th incarnation of the God Vishnu, and Radha is his favorite gopi. Together they represent devotional love."
+    },
+    {
+        "id": 6,
+        "src": "/assets/lakshmi.jpg",
+        "click": false,
+        "info": "Goddess of abundance and happiness. She is well-known for good luck."
+    },
+    {
+        "id": 7,
+        "src": "/assets/shiva.jpg",
+        "click": false,
+        "info": "One of the oldest Hindi Gods, he is a devout meditator and yogi."
+    },
+    {
+        "id": 8,
+        "src": "/assets/Shiva-Parvati_on_Nandi.jpg",
+        "click": false,
+        "info": ""
+    }, {
+        "id": 9,
+        "src": "/assets/Kalighat_Matangi.jpg",
+        "click": false,
+        "info": ""
     }
 ]
