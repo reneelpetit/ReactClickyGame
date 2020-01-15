@@ -54,7 +54,7 @@ class Game extends Component {
         return (
             <div>
                 <Navbar score={this.state.score} topScore={this.state.topScore} />
-                <div className="container">
+                <div className="container-sm-12 pl-5">
                     <div className="row">
                             {this.state.data.map(
                                 image => (<Images
@@ -64,9 +64,9 @@ class Game extends Component {
                                     clickedImage={this.clickedImage}
                                 />)
                             )}
-                        </div>
                     </div>
                 </div>
+            </div>
         )
     }
 }

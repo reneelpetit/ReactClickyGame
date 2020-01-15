@@ -25,7 +25,7 @@
     },
     {
         "id": 5,
-        "src": "/assets/radhaKrishna.jpg",
+        "src": "/assets/krishna.jpg",
         "click": false,
         "info": "Krishna is the 8th incarnation of the God Vishnu, and Radha is his favorite gopi. Together they represent devotional love."
     },
@@ -43,12 +43,54 @@
     },
     {
         "id": 8,
-        "src": "/assets/Shiva-Parvati_on_Nandi.jpg",
+        "src": "/assets/parvati.jpg",
         "click": false,
         "info": ""
     }, {
         "id": 9,
-        "src": "/assets/Kalighat_Matangi.jpg",
+        "src": "/assets/bhuvaneshvari.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 10,
+        "src": "/assets/brahma.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 11,
+        "src": "/assets/chinnamasta.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 12,
+        "src": "/assets/dhumavati.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 13,
+        "src": "/assets/hanuman.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 14,
+        "src": "/assets/lalitatripurasundari.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 15,
+        "src": "/assets/radha.jpg",
+        "click": false,
+        "info": ""
+    },
+    {
+        "id": 16,
+        "src": "/assets/sita.jpg",
         "click": false,
         "info": ""
     }

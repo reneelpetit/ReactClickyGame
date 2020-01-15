@@ -7,7 +7,7 @@ import Jumbotron from './components/Jumbotron';
 
 function App() {
   return (
-    <div>
+    <div id="background">
       <Jumbotron />
       {/* <Images /> */}
       <Game />
