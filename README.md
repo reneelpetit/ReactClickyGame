@@ -1,5 +1,7 @@
 ## ReactClickyGame | clicky-game-react.netlify.com
 
+IN PROGRESS
+
 Individual project: Create a game in React.js where the user clicks an image to earn points, but loses the game if they click the same image twice. Images randomly shuffle each time one is clicked.
 React.js, Bootstrap
 
