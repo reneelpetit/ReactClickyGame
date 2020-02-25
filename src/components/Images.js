@@ -5,7 +5,7 @@ function Images(props) {
         <div className="row">
             <div className="col-sm-12 pt-5">
                 <div className="card photos">
-                    <img className="img-fluid" src={props.src} onClick={() => props.clickedImage(props.id)}
+                    <img className="img-fluid" src={props.src} alt="God/Goddess" onClick={() => props.clickedImage(props.id)}
                         height="500" width="300" />
                 </div>
             </div>
