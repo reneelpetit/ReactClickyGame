@@ -53,7 +53,8 @@ class Game extends Component {
     render() {
         return (
             <div>
-                <Navbar score={this.state.score} topScore={this.state.topScore} />
+                <Navbar score={this.state.score} />
+                <Navbar topScore={this.state.topScore} />
                 <div className="container-sm-12 pl-5">
                     <div className="row">
                             {this.state.data.map(
