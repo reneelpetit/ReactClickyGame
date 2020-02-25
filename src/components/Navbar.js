@@ -5,8 +5,8 @@ function Navbar(props) {
 
         <div>
             <div className="navbar">
-                <nav className="navbar navbar-light bg-light mx-auto">
-                    <h1> Score: {props.score} </h1>
+                <nav className="navbar navbar-light text-white mx-auto">
+                    <h1 className="px-3"> Score: {props.score} </h1>
                     <h1> Top Score: {props.topScore} </h1>
                 </nav>
             </div>
